@@ -1,0 +1,97 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "A person can get sunburned on a cloudy day.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Pok&eacute;mon, Arbok evolves into Seviper.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Waluigi&#039;s first appearance was in what game?",
+      "correct_answer": "Mario Tennis 64 (N64)",
+      "incorrect_answers": [
+        "Wario Land: Super Mario Land 3",
+        "Mario Party (N64)",
+        "Super Smash Bros. Ultimate"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "Which of the following is considered classical conditioning?",
+      "correct_answer": "Pavlov&#039;s dog experiments",
+      "incorrect_answers": [
+        "Skinner box experiment",
+        "Schr&ouml;dinger&#039;s cat experiment",
+        "Harlow&rsquo;s monkey experiments"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Politics",
+      "question": "Which of the following United States Presidents served the shortest term in office?",
+      "correct_answer": "William Henry Harrison",
+      "incorrect_answers": [
+        "Zachary Taylor",
+        "James A. Garfield",
+        "Warren G. Harding"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The game &quot;Battlefield 1&quot; takes place during World War I.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is not a default game mode in Counter-Strike (2000)?",
+      "correct_answer": "Arms Race",
+      "incorrect_answers": ["Hostage Rescue", "Bomb Defusal", "Assassination"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+      "correct_answer": "1923",
+      "incorrect_answers": ["1903", "1913", "1933"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": ["Washington", "Colorado", "Arizona"]
+    }
+  ]
+}
