@@ -1,6 +1,8 @@
 const main = document.querySelector(".main");
 const startButton = document.querySelector("#start-quiz");
 const questions = document.querySelector(".questions");
+
+// const calculate = document.querySelector('.calculat')
 let questionIndex = 0;
 let correctAnswers = 0;
 
@@ -95,8 +97,12 @@ function serverRequest(arr) {
     } else {
       // All questions completed
       questionForm.innerHTML = `
-          <h1>${correctAnswers} / ${arr.length}</h1>
-          `;
+  <div class="calculat" style="background: conic-gradient(#7378c8 ${
+    (6 / arr.length) * 100
+  }%, 0, #482c58 66%)">
+    <div class="cercle">${correctAnswers} / ${arr.length}</div>
+  </div>
+`;
     }
   });
 }
